@@ -1,4 +1,2 @@
-# fxserver-esx_boilerplate
-FXServer ESX Boilerplate
-
-This a sample script for es_extended
+# esx_cigarett
+Add item "lighter" and "cigarett" to DB.
